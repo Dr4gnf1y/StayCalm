@@ -1,2 +1,2 @@
-# Stay-Calm
+# StayCalm
 Scanner
